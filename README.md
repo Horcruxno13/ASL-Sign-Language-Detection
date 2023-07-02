@@ -1,1 +1,6 @@
 # ASL-Sign-Language-Detection
+American Sign Language (ASL) is a visual-gestural language used by the Deaf and hard-of-hearing community for communication. It plays a crucial role in facilitating effective communication and inclusion for individuals with hearing impairments. However, the interpretation and understanding of ASL signs can be a challenge for those who are not familiar with the language.
+
+The goal of this project is to develop a machine learning solution for ASL alphabet detection using the VGG-16 model. By leveraging the power of deep learning, we aim to create an automated system that can recognize and classify hand gestures corresponding to different letters of the ASL alphabet. This technology has the potential to bridge the communication gap between individuals who are proficient in ASL and those who are not, enabling smoother interactions and fostering inclusivity.
+
+The VGG-16 model, a convolutional neural network (CNN) architecture, has proven to be highly effective in various computer vision tasks, including image classification. With its deep network structure and learned feature representations, the VGG-16 model demonstrates a strong capability to extract intricate patterns and features from visual data.
